@@ -16,16 +16,16 @@ O script vai enviar uma request para esse site, e se o site não retornar 404 ou
 O usuário envia um input com o IP e a Porta onde vai rolar o ataque (exemplo: 192.168.1.1 443) e o script envia 100000 packets UDP ao IP e a Porta, isso não é um DdoS (infelizmente), mas futuramente pretendo dar um upgrade nesta função e fazer ela ser um DdoS.
 
 ## 🌐 4 - Network
-  ↳ Scan Ports
-  
-    ↳ Packet Sniffer
-    
-      ↳ IP by URL
+Scan Ports
+Packet Sniffer
+IP by URL
   
 ## 🔎 5 - Lookups
-  ↳ IP Lookup
-    ↳ BIN Lookup
-      ↳ Domain Lookup
+↳ IP Lookup
+  
+↳ BIN Lookup
+    
+↳ Domain Lookup
 
 ## [☣️] Lembrando que o uso da ferramenta deve ser feito apenas para intuitos educaionais, Não incentivamos o uso ilegal e imoral da ferramenta!
 
