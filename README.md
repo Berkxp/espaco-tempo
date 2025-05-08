@@ -23,11 +23,13 @@ O usuário envia um input com o IP e a Porta onde vai rolar o ataque (exemplo: 1
 ↳ IP by URL
   
 ## 🔎 5 - Lookups
-↳ IP Lookup
-  
-↳ BIN Lookup
-    
-↳ Domain Lookup
+|   __________
+
+|  |
+
+|  |
+
+|__
 
 ## [☣️] Lembrando que o uso da ferramenta deve ser feito apenas para intuitos educaionais, Não incentivamos o uso ilegal e imoral da ferramenta!
 
