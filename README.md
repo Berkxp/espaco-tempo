@@ -4,18 +4,18 @@
 
 Espaço tempo é uma ferramenta hacker desenvolvida por mim que contém várias Funções, irei listá-las aqui:
 
-##1 - Automatic SqlI
+## 1 - Automatic SqlI
 
-##2 - Osint
+## 2 - Osint
 
-##3 - DoS
+## 3 - DoS
 
-##4 - Network
+## 4 - Network
   ↳ Scan Ports
     ↳ Packet Sniffer
       ↳ IP by URL
   
-##5 - Lookups
+## 5 - Lookups
   ↳ IP Lookup
     ↳ BIN Lookup
       ↳ Domain Lookup
