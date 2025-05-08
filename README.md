@@ -1,6 +1,6 @@
 # Espaço Tempo
 
-##Espaço Tempo v1.1
+## Espaço Tempo v1.1
 
 Espaço tempo é uma ferramenta hacker desenvolvida por mim que contém várias Funções, irei listá-las aqui:
 
@@ -26,5 +26,12 @@ O usuário envia um input com o IP e a Porta onde vai rolar o ataque (exemplo: 1
       ↳ Domain Lookup
 
 ## [☣️] Lembrando que o uso da ferramenta deve ser feito apenas para intuitos educaionais, Não incentivamos o uso ilegal e imoral da ferramenta!
+
+
+## Instalação:
+É só executar o install.sh com um:
+```
+bash install.sh
+```
 
 ![Menu da Ferramenta](url)
